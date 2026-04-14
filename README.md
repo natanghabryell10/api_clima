@@ -1,2 +1,2 @@
 # api_clima
-Aplicação em Python que consulta o clima de uma cidade usando a API OpenWeather
+Aplicação simples em Python que consulta o clima de uma cidade usando a API do OpenWeather. Permite buscar o clima por cidade e exibe a temperatura em °C e a condição do tempo. Utiliza Python e a biblioteca Requests. Para funcionar, é necessário gerar uma API Key no site do OpenWeather e adicioná-la ao arquivo app.py. A execução é feita instalando as dependências com pip install -r requirements.txt e rodando python app.py
